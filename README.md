@@ -24,10 +24,10 @@ Sou uma desenvolvedora web e mobile apaixonada também pelo mundo do design de i
 
 
 ##  Contact Me
-<a href="https://www.linkedin.com/in/giovannamoeller/">Linkedin</a>
-<a href="mailto:giovannagmoeller@gmail.com">E-mail</a>
-<a href="https://instagram.com/gimoeller">Instagram Pessoal</a>
-<a href="https://www.instagram.com/girl.coding/">Instagram de Criador de Conteúdo</a>
+- <a href="https://www.linkedin.com/in/giovannamoeller/">Linkedin</a>
+- <a href="mailto:giovannagmoeller@gmail.com">E-mail</a>
+- <a href="https://instagram.com/gimoeller">Instagram Pessoal</a>
+- <a href="https://www.instagram.com/girl.coding/">Instagram de Criador de Conteúdo</a>
 </div>
 
 
