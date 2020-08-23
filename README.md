@@ -29,7 +29,3 @@ Sou uma desenvolvedora web e mobile apaixonada também pelo mundo do design de i
 - <a href="https://instagram.com/gimoeller">Instagram Pessoal</a>
 - <a href="https://www.instagram.com/girl.coding/">Instagram de Criador de Conteúdo</a>
 </div>
-
-
-
-**giovannamoeller/giovannamoeller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
