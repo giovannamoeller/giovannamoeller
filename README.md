@@ -1,4 +1,4 @@
- # <a href="https://www.linkedin.com/in/giovannamoeller/">Giovanna Moeller</a> :smiley:
+ # <a href="https://www.linkedin.com/in/giovannamoeller/">Giovanna Moeller</a>
  
 ## About Me
 Tenho 19 anos e sou técnica em informática pelo Colégio Técnico Industrial 'Prof. Isaac Portal Roldán' - UNESP (Bauru, SP), formada em 2019. Atualmente, sou estudante de Sistemas de Informação na UNESP - Universidade Estadual Paulista (Bauru, SP). 
