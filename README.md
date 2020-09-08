@@ -10,7 +10,7 @@ Sou uma desenvolvedora web e mobile apaixonada também pelo mundo do design de i
 - Back - End com NodeJS, Express, SQL
 - Mobile com React Native
 - Wordpress
-- UI Design utilizando Sketch/Figma
+- UI Design utilizando Figma
 
 **Languages and Tools:**  
 
