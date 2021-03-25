@@ -8,7 +8,7 @@ Sou uma desenvolvedora web e mobile apaixonada também pelo mundo do design de i
 ## Technologies
 - Front - End com HTML, CSS, JS, ReactJS
 - Wordpress
-- UI Design utilizando Figma/Sketch
+- UI Design com Figma
 - Estudando Swift nas horas vagas
 
 **Languages and Tools:**  
