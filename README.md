@@ -1,15 +1,17 @@
  # <a href="https://www.linkedin.com/in/giovannamoeller/">Giovanna Moeller</a>
  
 ## About Me
-Tenho 20 anos e sou técnica em informática pelo Colégio Técnico Industrial 'Prof. Isaac Portal Roldán' - UNESP (Bauru, SP), formada em 2019. Atualmente, sou estudante de Sistemas de Informação na UNESP - Universidade Estadual Paulista (Bauru, SP). 
-<br>
-Sou uma desenvolvedora web e mobile apaixonada também pelo mundo do design de interfaces.
+Hey there! I’m Giovanna Moeller, 20 years old, currently living in Brazil. 
+
+I am a computer technician graduated from "CTI - Colégio Técnico Industrial” in 2019. Currently, I am a graduate student in Information Systems at UNESP - Estual University (Bauru, São Paulo).
+
+A software developer who is also passionate about user interface design.
 
 ## Technologies
-- Front - End com HTML, CSS, JS, ReactJS
-- Wordpress
-- UI Design com Figma
-- Estudando Swift nas horas vagas
+- iOS Development with Swift (UIKit and SwiftUI).
+- Front-end Development with HTML, CSS, Javascript and React.
+- User Interface Design
+- Web Design with Elementor and Webflow.
 
 **Languages and Tools:**  
 
@@ -20,10 +22,12 @@ Sou uma desenvolvedora web e mobile apaixonada também pelo mundo do design de i
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 
+**Content Creator at:**
+- <a href="https://instagram.com/girl.coding">Instagram - @girl.coding</a>
+- <a href="https://youtube.com/c/GirlCoding">Youtube - Girl Coding</a>
+
 
 ##  Contact Me
 - <a href="https://www.linkedin.com/in/giovannamoeller/">Linkedin</a>
-- <a href="mailto:giovanna_moeller@outlook.com">E-mail</a>
-- <a href="https://instagram.com/gimoeller">Instagram Pessoal</a>
-- <a href="https://www.instagram.com/girl.coding/">Instagram de Criador de Conteúdo</a>
+- <a href="mailto:giovannagmoeller@gmail.com">E-mail</a>
 </div>
