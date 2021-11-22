@@ -3,7 +3,7 @@
 ## About Me
 Hey there! I’m Giovanna Moeller, 21 years old, currently living in Brazil. 
 
-I am a computer technician graduated from "CTI - Colégio Técnico Industrial” in 2019. Currently, I am a graduate student in Information Systems at UNESP - Estual University (Bauru, São Paulo).
+I am a computer technician graduated from "CTI - Colégio Técnico Industrial” in 2019. Currently, I am a graduate student in Information Systems at São Paulo State University (UNESP, Universidade Estadual Paulista "Júlio de Mesquita Filho") in Bauru, São Paulo.
 
 A software developer who is also passionate about user interface design.
 
