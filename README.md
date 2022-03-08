@@ -7,7 +7,7 @@ A software developer who is also passionate about user interface design.
 
 ### Technologies
 - iOS Development with Swift (UIKit and SwiftUI).
-- Front-end Development with HTML, CSS, Javascript and React.
+- Front-end Development with HTML, CSS, Javascript, React and NextJS.
 - User Interface Design.
 - Web Design with Elementor and Webflow.
 
