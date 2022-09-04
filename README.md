@@ -18,5 +18,5 @@ A software developer who is also passionate about user interface design.
 
 ###  Contact Me
 - <a href="https://www.linkedin.com/in/giovannamoeller/">Linkedin</a>
-- <a href="mailto:giovannagmoeller@gmail.com">E-mail</a>
+- <a href="mailto:contact@giovannamoeller.com">E-mail</a>
 </div>
