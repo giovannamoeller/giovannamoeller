@@ -1,22 +1,33 @@
-### About Me
-Hey there! I’m Giovanna Moeller, 21 years old, currently living in Brazil. 
+## 👋 Hi there, I'm Giovanna Moeller!
 
-I am a computer technician graduated from "CTI - Colégio Técnico Industrial” in 2019. Currently, I am a graduate student in Information Systems at São Paulo State University (UNESP, Universidade Estadual Paulista "Júlio de Mesquita Filho") in Bauru, São Paulo.
+### 🎓 About me:
 
-A software developer who is also passionate about user interface design.
+🌍 Based in Brazil.
+📚 Currently studying Information Systems at Universidade Estadual Paulista (UNESP).
+🎓 Computer technician.
+💻 Web & iOS Developer with a passion for crafting elegant solutions
+  
+### 👩‍💻 Professional interests:
 
-### Technologies
-- iOS Development with Swift (UIKit and SwiftUI).
-- Front-end Development with HTML, CSS, Javascript, React and NextJS.
-- User Interface Design.
-- Web Design with Elementor and Webflow.
+🖥️ Deeply fascinated by all things in computer science - currently studying more about algorithms and data structures.
+📱 Developing intuitive and impactful web and iOS applications.
+🛠️ Continuously exploring new technologies and methodologies in software engineering.
 
-### Content Creator at:
-- <a href="https://instagram.com/girl.coding">Instagram - @girl.coding</a>
-- <a href="https://youtube.com/c/GirlCoding">Youtube - Girl Coding</a>
+### 🌱 What I'm up uo:
 
+📖 Constantly learning and improving my skills in software engineering.
+🔄 Contributing to open-source projects that catch my interest.
+🤝 Looking to collaborate on innovative web and iOS projects.
 
-###  Contact Me
-- <a href="https://www.linkedin.com/in/giovannamoeller/">Linkedin</a>
-- <a href="mailto:contact@giovannamoeller.com">E-mail</a>
-</div>
+### 📈 My goals:
+
+🌟 To develop software that makes a difference.
+🌐 To connect and collaborate with fellow developers and tech enthusiasts.
+
+### 📫 Get in touch:
+
+💬 Feel free to reach out for collaborations or just a tech chat!
+📧 Email me at contact@giovannamoeller.com.
+🔗 [Linkedin profile](https://linkedin.com/in/giovannamoeller).
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
