@@ -13,7 +13,7 @@
 📱 Developing intuitive and impactful web and iOS applications.<br/>
 🛠️ Continuously exploring new technologies and methodologies in software engineering.<br/>
 
-### 🌱 What I'm up uo:
+### 🌱 What I'm up to:
 
 📖 Constantly learning and improving my skills in software engineering.<br/>
 🔄 Contributing to open-source projects that catch my interest.<br/>
