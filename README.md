@@ -5,7 +5,7 @@
 🌍 Based in Brazil.<br/>
 📚 Currently studying Information Systems at Universidade Estadual Paulista (UNESP).<br/>
 🎓 Computer technician.<br/>
-💻 Web & iOS Developer with a passion for crafting elegant solutions<br/>
+💻 Web & iOS Developer with a passion for crafting elegant solutions.<br/>
   
 ### 👩‍💻 Professional interests:
 
